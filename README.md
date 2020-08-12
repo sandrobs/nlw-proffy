@@ -1,8 +1,8 @@
-# Proffy 
+# Proffy - NLW
 
-## Versão 1.0
+## Versão 1.0.0
 
-### Features
+### Funcionalidades
 
 - Busca de professores disponíveis em horários e dias escolhidos
 - Contato com o professor selecionado
@@ -16,8 +16,3 @@ Aplicação desenvolvida durante a Next Level Week 2 da @Rocketseat
 - Front-end web: desenvolvido em ReactJS
 - App mobile: desenvolvido em  React Native
 - Back-end: desenvolvido em Node.js, utilizando SQlite como banco de dados
- 
- 
-## Versão 2.0
- 
- Em desenvolvimento...
