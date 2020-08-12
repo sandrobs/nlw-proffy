@@ -2,7 +2,7 @@
 
 ## Versão 1.0
 
-## Features
+### Features
 
 - Busca de professores disponíveis em horários e dias escolhidos
 - Contato com o professor selecionado
@@ -10,14 +10,14 @@
 - Total de conexões entre alunos e professores realizadas através da aplicação
 
 
-## Arquitetura
+### Arquitetura
 
 Aplicação desenvolvida durante a Next Level Week 2 da @Rocketseat
- -> Front-end web: desenvolvido em ReactJS
- -> App mobile: desenvolvido em  React Native
- -> Back-end: desenvolvido em Node.js, utilizando SQlite como banco de dados
+- Front-end web: desenvolvido em ReactJS
+- App mobile: desenvolvido em  React Native
+- Back-end: desenvolvido em Node.js, utilizando SQlite como banco de dados
  
  
- ##Versão 2.0
+## Versão 2.0
  
  Em desenvolvimento...
